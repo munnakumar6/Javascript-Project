@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: blue;
+}
+.main{
+    text-align: center;
+    margin: 200px;
+    line-height: 60px;
+    color: #fff;
+}
+.Number_counter{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    font-size: 25px;
+    font-weight: 800;
+}
+input{
+    width: 80px;
+    background-color: #fff;
+    font-size: 20px;
+    padding: 6px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+button{
+    background-color: #fff;
+    color: darkblue;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
